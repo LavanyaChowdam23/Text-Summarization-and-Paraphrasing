@@ -7,8 +7,8 @@ app:
   version: "1.0.0"
   description: "AI-Powered Text Summarization & Paraphrasing Platform"
   author: "Lavanya"
-  page_title: "Text Morph - AI Text Processing"
-  page_icon: "🔮"
+  page_title: "AI Text Summarizer and Paraphraser"
+  page_icon: "📝"
   layout: "wide"
   initial_sidebar_state: "expanded"
 
