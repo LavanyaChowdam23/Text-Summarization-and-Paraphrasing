@@ -6,7 +6,7 @@ app:
   name: "Text Morph"
   version: "1.0.0"
   description: "AI-Powered Text Summarization & Paraphrasing Platform"
-  author: "Lavanya"
+  author: "Chowdam Lavanya"
   page_title: "AI Text Summarizer and Paraphraser"
   page_icon: "📝"
   layout: "wide"
